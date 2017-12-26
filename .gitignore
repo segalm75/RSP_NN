@@ -1,0 +1,24 @@
+# Images and output files #
+###############
+*.tif
+*.tiff
+*.png
+*.out
+*.jpg
+# TensorFlow  save files #
+###############
+*.meta
+*.index
+*.data*
+# Keras saved files #
+###################
+*.h5
+*.json
+*.hdf5
+*.npy
+*.json
+# folders
+##########
+C:/Users/msegalro/RSP/RSP_NN/output
+C:/Users/msegalro/RSP/RSP_NN/data
+C:/Users/msegalro/RSP/RSP_NN/plots
